@@ -24,7 +24,7 @@ body {
     z-index: 100;
 }
 
-.logo{  /*Shayan*/
+.logo{  /*Shayaan*/
     position: relative;
     font-size: 25px;
     color: #ededed;
@@ -35,6 +35,7 @@ body {
 .header h7{
     position:static;
     font-size: 10px;
+    color: #fada25
 }
 
 .logo::before {
